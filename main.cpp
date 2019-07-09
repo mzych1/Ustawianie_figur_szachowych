@@ -3,7 +3,8 @@
 //zadanie 2.7
 //autor: Magdalena Zych
 //grupa I5
-//prowadzacy:Aleksandra Pasnikowska
+//prowadzacy: Aleksandra Pasnikowska
+//data: 04.2018
 
 #include "Funkcje.h"
 
